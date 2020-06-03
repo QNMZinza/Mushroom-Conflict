@@ -1,8 +1,25 @@
 Android
 PlayerPath?
-F:/UnityProject/MushroomConflict/Build/TestAds/bunny.apk
+F:/UnityProject/MushroomConflict/Build/bunny.apk
 SceneListBegin?
-Assets/Scenes/TestAdmob.unity
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/EndStory.unity
+Assets/Scenes/GameStory.unity
+Assets/Scenes/HowTo.unity
+Assets/Scenes/SelectStage.unity
+Assets/Scenes/Stage1.unity
+Assets/Scenes/Stage2.unity
+Assets/Scenes/Stage3.unity
+Assets/Scenes/Stage4.unity
+Assets/Scenes/Stage5.unity
+Assets/Scenes/Stage6.unity
+Assets/Scenes/Stage7.unity
+Assets/Scenes/Stage8.unity
+Assets/Scenes/Stage9.unity
+Assets/Scenes/Stage10.unity
+Assets/Scenes/Stage11.unity
+Assets/Scenes/Stage12.unity
+Assets/Scenes/ZZZZ.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
